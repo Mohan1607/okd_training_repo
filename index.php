@@ -1,3 +1,3 @@
-<? php
-  echo "welcome to ocp platform";
+<?php
+  print "welcome to ocp platform";
 ?>
